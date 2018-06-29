@@ -1,0 +1,10 @@
+.externalToolBuilders
+.metadata
+.classpath
+.project
+
+/bin
+/foobar/.settings/*
+/foobar/.classpat
+/foobar/.project
+*.7z
